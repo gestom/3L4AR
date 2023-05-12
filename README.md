@@ -46,3 +46,4 @@
 [CZ MSMT project](http://www.msmt.cz/vyzkum-a-vyvoj-2/mobility-6) (No. ???), [PHC Barrande project](https://www.campusfrance.org/fr/barrande) (No. 49275QM), 2023-2024 (2 years).
 
 [![ctu logo](images/ctu_logo.png)](https://www.cvut.cz/en) [![chronorobotics logo](images/chronorobotics_logo.png)](https://chronorobotics.fel.cvut.cz/en) [![utbm logo](images/utbm_logo.png)](https://www.utbm.fr/) [![ciad logo](images/ciad_logo.png)](http://www.ciad-lab.fr/)
+---
