@@ -1,5 +1,5 @@
 
-## ![3L4AR logo](images/3l4av_logo.png) Life-Long Learning of environmental dynamics for socially-aware navigation of Autonomous Robots
+## ![3L4AR logo](docs/images/3l4av_logo.png) Life-Long Learning of environmental dynamics for socially-aware navigation of Autonomous Robots
 
 * [About](#about)
 * [Partners](#partners)
@@ -7,6 +7,8 @@
 * [Results](#results)
 
 ## News
+
+\[20 Apr 2023\]: Dr. Zhi Yan gave a talk at [CTU](https://cs.fel.cvut.cz/en/news/detail/1719)!
 
 \[19 Apr 2023\]: The UTBM team started to visit the CTU team!
 
@@ -43,7 +45,7 @@
 ## Results
 
 ---
-[CZ MSMT project](http://www.msmt.cz/vyzkum-a-vyvoj-2/mobility-6) (No. ???), [PHC Barrande project](https://www.campusfrance.org/fr/barrande) (No. 49275QM), 2023-2024 (2 years).
+[CZ MSMT project](http://www.msmt.cz/vyzkum-a-vyvoj-2/mobility-6) (No. 8J23FR023), [PHC Barrande project](https://www.campusfrance.org/fr/barrande) (No. 49275QM), 2023-2024 (2 years).
 
 [![ctu logo](images/ctu_logo.png)](https://www.cvut.cz/en) [![chronorobotics logo](images/chronorobotics_logo.png)](https://chronorobotics.fel.cvut.cz/en) [![utbm logo](images/utbm_logo.png)](https://www.utbm.fr/) [![ciad logo](images/ciad_logo.png)](http://www.ciad-lab.fr/)
 ---
