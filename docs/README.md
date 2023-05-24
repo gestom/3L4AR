@@ -1,5 +1,5 @@
 
-## ![3L4AR logo](docs/images/3l4av_logo.png) Life-Long Learning of environmental dynamics for socially-aware navigation of Autonomous Robots
+## ![3L4AR logo](images/3l4av_logo.png) Life-Long Learning of environmental dynamics for socially-aware navigation of Autonomous Robots
 
 * [About](#about)
 * [Partners](#partners)
