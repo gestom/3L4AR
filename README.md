@@ -42,6 +42,8 @@
 
 ## Publications
 
+1. Tomas Vintr, George Broughton, Tomas Roucek, Zhi Yan, Tomas Krajnik. [Dataset collection for long-term forecasting of human presence, motion and activity](https://motionpredictionicra2023.github.io/proceedings/vintr2023LHMPws.pdf). *ICRA Workshop on Long-term Human Motion Prediction*, London, UK, May 2023.
+
 ## Results
 
 ---
