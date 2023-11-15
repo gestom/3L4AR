@@ -8,6 +8,10 @@
 
 ## News
 
+\[13 Nov 2023\]: The UTBM team visited the TESLA factory in Prague!
+
+\[9 Nov 2023\]: The UTBM team started to visit the CTU team!
+
 \[20 Apr 2023\]: Dr. Zhi Yan gave a talk at [CTU](https://cs.fel.cvut.cz/en/news/detail/1719)!
 
 \[19 Apr 2023\]: The UTBM team started to visit the CTU team!
