@@ -59,11 +59,13 @@
 
 ## Publications
 
-1. Rui Yang, Tao Yang, Zhi Yan, Tomas Krajnik, and Yassine Ruichek. [Preventing catastrophic forgetting in continuous online learning for autonomous driving](https://hal.science/hal-04691842). In *Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Abu Dhabi ,UAE, October 2024.
+1. Iaroslav Okunevich, Alexandre Lombard, Tomas Krajnik, Yassine Ruichek, and Zhi Yan. [Online context learning for socially compliant navigation](https://arxiv.org/abs/2406.11495). *IEEE Robotics and Automation Letters (RA-L)*, May 2025.
 
-2. Tao Yang, Jinwen Hu, You Li, Cheng Zhao, Li Sun, Tomas Krajnik, and Zhi Yan. [3D ToF LiDAR for mobile robotics in harsh environments: A review](https://www.worldscientific.com/doi/abs/10.1142/S230138502530001X). *Unmanned Systems*, April 2024.
+2. Rui Yang, Tao Yang, Zhi Yan, Tomas Krajnik, and Yassine Ruichek. [Preventing catastrophic forgetting in continuous online learning for autonomous driving](https://hal.science/hal-04691842). In *Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Abu Dhabi ,UAE, October 2024.
 
-3. Tomas Vintr, George Broughton, Tomas Roucek, Zhi Yan, and Tomas Krajnik. [Dataset collection for long-term forecasting of human presence, motion and activity](https://motionpredictionicra2023.github.io/proceedings/vintr2023LHMPws.pdf). *ICRA Workshop on Long-term Human Motion Prediction*, May 2023.
+3. Tao Yang, Jinwen Hu, You Li, Cheng Zhao, Li Sun, Tomas Krajnik, and Zhi Yan. [3D ToF LiDAR for mobile robotics in harsh environments: A review](https://www.worldscientific.com/doi/abs/10.1142/S230138502530001X). *Unmanned Systems*, April 2024.
+
+4. Tomas Vintr, George Broughton, Tomas Roucek, Zhi Yan, and Tomas Krajnik. [Dataset collection for long-term forecasting of human presence, motion and activity](https://motionpredictionicra2023.github.io/proceedings/vintr2023LHMPws.pdf). *ICRA Workshop on Long-term Human Motion Prediction*, May 2023.
 
 ## Results
 
