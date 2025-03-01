@@ -59,7 +59,7 @@
 
 ## Publications
 
-1. Iaroslav Okunevich, Alexandre Lombard, Tomas Krajnik, Yassine Ruichek, and Zhi Yan. [Online context learning for socially compliant navigation](https://arxiv.org/abs/2406.11495). *IEEE Robotics and Automation Letters (RA-L)*, May 2025.
+1. Iaroslav Okunevich, Alexandre Lombard, Tomas Krajnik, Yassine Ruichek, and Zhi Yan. [Online context learning for socially compliant navigation](https://arxiv.org/abs/2406.11495). *IEEE Robotics and Automation Letters (RA-L)*, March 2025.
 
 2. Rui Yang, Tao Yang, Zhi Yan, Tomas Krajnik, and Yassine Ruichek. [Preventing catastrophic forgetting in continuous online learning for autonomous driving](https://hal.science/hal-04691842). In *Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Abu Dhabi ,UAE, October 2024.
 
