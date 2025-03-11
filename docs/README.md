@@ -67,7 +67,19 @@
 
 4. Tomas Vintr, George Broughton, Tomas Roucek, Zhi Yan, and Tomas Krajnik. [Dataset collection for long-term forecasting of human presence, motion and activity](https://motionpredictionicra2023.github.io/proceedings/vintr2023LHMPws.pdf). *ICRA Workshop on Long-term Human Motion Prediction*, May 2023.
 
+## Theses
+
+1. Iaroslav Okunevich. [Online context learning for socially-compliant robot navigation](). Ph.D. in Computer Science, *Université Bourgogne-Franche-Comté (UBFC)*, 2021-2024.
+
 ## Results
+
+* [TESLA Factory Dataset]()
+
+* [Online Context Learning for Socially-compliant Navigation](https://github.com/Nedzhaken/SOCSARL-OL)
+
+* [Long-Short-Term Online Learning (LSTOL)](https://github.com/RuiYang-1010/lstol)
+
+* [LiPC: LiDAR Point Cloud Clustering Benchmark Suite](https://github.com/cavayangtao/lidar_clustering_bench)
 
 ---
 [CZ MSMT project](http://www.msmt.cz/vyzkum-a-vyvoj-2/mobility-6) (No. 8J23FR023), [PHC Barrande project](https://www.campusfrance.org/fr/barrande) (No. 49275QM), 2023-2024 (2 years).
