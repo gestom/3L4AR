@@ -73,6 +73,10 @@
 
 2. Iaroslav Okunevich. [Online context learning for socially-compliant robot navigation](). *UTBM*, 2024.
 
+3. Rui Yang. [Online continual learning for 3D detection of road participants in autonomous driving](https://theses.hal.science/tel-04587549/). *UTBM*, 2023.
+
+4. Tomas Vintr. [Maps of dynamics for social-aware navigation of autonomous mobile robots](https://dspace.cvut.cz/bitstream/handle/10467/114793/F3-D-2024-Vintr-Tomas-disertacni%20prace_Vintr.pdf). *CTU*, 2023.
+
 ## Results
 
 * [TESLA Factory Dataset]()
