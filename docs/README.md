@@ -69,7 +69,9 @@
 
 ## Theses
 
-1. Iaroslav Okunevich. [Online context learning for socially-compliant robot navigation](). Ph.D. in Computer Science, *Université Bourgogne-Franche-Comté (UBFC)*, 2021-2024.
+1. George Broughton. [Incremental learning for robot navigation](). *CTU*, 2025.
+
+2. Iaroslav Okunevich. [Online context learning for socially-compliant robot navigation](). *UTBM*, 2024.
 
 ## Results
 
